@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\PowerPlanSwitcher]
+@="Switch Power Plan"
+"Icon"="powercpl.dll"
+"Position"="Middle"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\PowerPlanSwitcher\command]
+@="\"C:\\win custom widget\\power plan switcher\\PowerPlanSwitcher.exe\""
