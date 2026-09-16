@@ -19,7 +19,7 @@ A lightweight open-source utility written in AutoHotkey that detects your Window
 > **Note:** The screenshots below were captured by the creator during personal testing of PRIMES Power Plan Switcher to demonstrate native plan detection and Windows context menu integration.
 
 ### Context Menu Integration
-![Context Menu Demo](![Context Menu Demo](docs/power%20plan%20menu.png))
+![Context Menu Demo](docs/power%20plan%20menu.png)
 
 ---
 
