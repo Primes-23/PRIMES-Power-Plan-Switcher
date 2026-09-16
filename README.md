@@ -1,3 +1,6 @@
+![GitHub Release](https://img.shields.io/github/v/release/Primes-23/PRIMES-Power-Plan-Switcher?color=crimson)
+![GitHub License](https://img.shields.io/github/license/Primes-23/PRIMES-Power-Plan-Switcher?color=crimson)
+
 # PRIMES Power Plan Switcher
 
 Fast Windows power-plan switching directly from the desktop context menu.
