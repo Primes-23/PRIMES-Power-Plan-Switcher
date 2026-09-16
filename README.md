@@ -2,7 +2,7 @@
 
 Fast Windows power-plan switching directly from the desktop context menu.
 
-![PRIMES Power Plan Switcher](docs/hero-image.png)
+![PRIMES Power Plan Switcher](docs/power%20plan%20menu.png)
 
 A lightweight open-source utility written in AutoHotkey that detects your Windows power plans and lets you switch between them instantly without navigating through the Control Panel or Windows Settings. 
 
